@@ -1,6 +1,6 @@
 /* Custom Properties */
 :root {
-    --main-color: #4fa2f0;
+    --main-color: #a0cdf7;
     --main-modal-color: rgba(18, 86, 233, 0.507);
     --second-color: #2B2B2B;
     --second-modal-color: rgba(14, 114, 245, 0.5);
@@ -12,7 +12,7 @@
     font-size: 16px;
     line-height: 1.6;
     color: var(--second-color);
-    background-color: var(--main-modal-color);
+    background-color: rgb(255 188 250 / 51%);
   }
   
   *,
@@ -53,3 +53,4 @@
     max-width: 250px;
     border-radius: 150%;
   }
+
